@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Exclude heavy datasets and temporary text files
+data/
+outputs/*.csv
+temp_metrics.txt
+temp_metrics_utf8.txt
+
+# Trained model binaries 
+models/

@@ -1,0 +1,23 @@
+============================================================
+  AI Cybersecurity Threat Detection — Alert Report
+  Generated: 2026-04-09 13:52:34
+============================================================
+
+  Total alerts logged  : 689
+  Avg anomaly score    : -0.4330
+  Avg RF confidence   : 99.21%
+
+  Alerts by severity:
+    CRITICAL      410  ( 59.5%)  ██████████████████
+    HIGH          279  ( 40.5%)  ████████████
+
+  Alerts by hour:
+    13:00      689 alerts
+
+  Top 5 most suspicious connections (by IF score):
+ connection_id severity  if_score  rf_confidence           timestamp
+           276 CRITICAL   -0.6067         0.9999 2026-04-09 13:52:08
+           276 CRITICAL   -0.6067         0.9999 2026-04-09 13:52:09
+           683 CRITICAL   -0.5948         0.9999 2026-04-09 13:52:08
+           139 CRITICAL   -0.5946         1.0000 2026-04-09 13:52:08
+           139 CRITICAL   -0.5946         1.0000 2026-04-09 13:52:09
