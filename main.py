@@ -206,11 +206,6 @@ def _print_final_summary(metrics: dict, alert_count: int,
   GitHub proof checklist:
   ✓ outputs/images/confusion_matrix.png
   ✓ outputs/images/feature_importance.png
-  ✓ outputs/images/attack_distribution.png
-  ✓ outputs/images/anomaly_scores.png
-  ✓ outputs/images/roc_curve.png
-  ✓ outputs/images/alert_timeline.png
-  ✓ outputs/images/severity_breakdown.png
   ✓ outputs/images/correlation_heatmap.png
   ✓ outputs/alerts_log.csv
   ✓ outputs/alert_report.txt
